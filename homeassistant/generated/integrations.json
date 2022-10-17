@@ -2432,6 +2432,11 @@
       "iot_class": "cloud_push",
       "name": "Matrix"
     },
+    "matter": {
+      "config_flow": true,
+      "iot_class": "local_push",
+      "name": "Matter"
+    },
     "mazda": {
       "config_flow": true,
       "iot_class": "cloud_polling",
